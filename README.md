@@ -1,10 +1,4 @@
----
 
-## Cross-Chanel Performance Dashboard Dashboard 
-
-Link: https://lookerstudio.google.com/s/ouNrb1tZ2BQ
-
-By Erika Rivadeneira
 
 ---
 ## Unified Marketing Ads Data (Snowflake)
