@@ -1,8 +1,12 @@
-# Cross-Chanel Performance Dashboard Dashboard 
+---
+
+## Cross-Chanel Performance Dashboard Dashboard 
+
 Link: https://lookerstudio.google.com/reporting/e4503cc0-0a7e-4a1a-a8c3-2f6d2d62604d
 By Erika Rivadeneira
 
-# Unified Marketing Ads Data Model (Snowflake)
+---
+## Unified Marketing Ads Data (Snowflake)
 
 ## Overview
 This project standardizes and unifies advertising data from **Facebook, Google, and TikTok** into a single cross-channel analytics table using **Snowflake SQL**.
