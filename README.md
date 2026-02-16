@@ -2,7 +2,8 @@
 
 ## Cross-Chanel Performance Dashboard Dashboard 
 
-Link: https://lookerstudio.google.com/reporting/e4503cc0-0a7e-4a1a-a8c3-2f6d2d62604d
+Link: https://lookerstudio.google.com/s/ouNrb1tZ2BQ
+
 By Erika Rivadeneira
 
 ---
