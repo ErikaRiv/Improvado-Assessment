@@ -1,3 +1,7 @@
+# Cross-Chanel Performance Dashboard Dashboard 
+Link: https://lookerstudio.google.com/reporting/e4503cc0-0a7e-4a1a-a8c3-2f6d2d62604d
+By Erika Rivadeneira
+
 # Unified Marketing Ads Data Model (Snowflake)
 
 ## Overview
